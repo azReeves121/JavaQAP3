@@ -1,5 +1,4 @@
-public class Person {
-}
+
 // Person.java
 public class Person {
     protected String myName;   // Name of the person
