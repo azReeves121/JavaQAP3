@@ -1,4 +1,4 @@
-package HighSchool.com
+package HighSchool.com;
 public class CollegeStudent extends Student {
     private int year;       // Year in college
     private String major;   // Major field of study

@@ -1,4 +1,4 @@
-package HighSchool.com
+package HighSchool.com;
 public class Student extends Person {
     protected String myIdNum; // Student ID Number
     protected double myGPA;   // Grade Point Average
