@@ -13,7 +13,7 @@ public abstract class Shape {
 
     public abstract double computeArea();
 
-    // toString method for displaying the object information
+    // toString method
     @Override
     public String toString() {
         return "Shape: " + name + ", Area: " + computeArea() + ", Perimeter: " + computePerimeter();
