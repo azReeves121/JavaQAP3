@@ -1,4 +1,4 @@
-// Teacher.java
+package HighSchool.com
 public class Teacher extends Person {
     private String subject;  // Subject taught
     private double salary;   // Annual salary
